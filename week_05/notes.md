@@ -1,4 +1,6 @@
-# In week 3 we learnt Git and I suggested that you consider Git as a kind of portfolio of your code. Another way to sell yourself to potential clients or employers is through an online presence. There are many opportunities to have your own online presence such as through various social networking sites. However, to begin with we shall look at creating our own blogs, using free blogging services. Once we are comfortable with that then we can consider running our own static sites, putting the source code in Git, and hosting the site itself in GitHub.
+# Blogging
+
+In week 3 we learnt Git and I suggested that you consider Git as a kind of portfolio of your code. Another way to sell yourself to potential clients or employers is through an online presence. There are many opportunities to have your own online presence such as through various social networking sites. However, to begin with we shall look at creating our own blogs, using free blogging services. Once we are comfortable with that then we can consider running our own static sites, putting the source code in Git, and hosting the site itself in GitHub.
 
 ## Blogging from a Blog Site
 
