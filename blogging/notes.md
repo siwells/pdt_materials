@@ -20,4 +20,5 @@ You don't just have to use a free blog service to host your website. There are m
 
 ## Our Blogs:
 + [Gordon Swan](http://totaltechnology.tumblr.com/)
++ [Scott Rae](http://scottcompsci.weebly.com/)
 
