@@ -18,4 +18,6 @@ You don't just have to use a free blog service to host your website. There are m
 + [GitHub Pages](https://pages.github.com/)
 + [GitHub Help](https://help.github.com/categories/github-pages-basics/)
 
+## Our Blogs:
++ [Gordon Swan](http://totaltechnology.tumblr.com/)
 
