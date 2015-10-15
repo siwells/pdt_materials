@@ -20,6 +20,5 @@ You don't just have to use a free blog service to host your website. There are m
 
 ## Our Blogs:
 + [Alex Dan](www.tumblr.com/blog/danrazvan)
-+ [Gordon Swan](http://totaltechnology.tumblr.com/)
 + [Scott Rae](http://scottcompsci.weebly.com/)
-
++ [Gordon Swan](http://totaltechnology.tumblr.com/)
