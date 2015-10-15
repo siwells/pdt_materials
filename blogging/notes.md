@@ -19,6 +19,7 @@ You don't just have to use a free blog service to host your website. There are m
 + [GitHub Help](https://help.github.com/categories/github-pages-basics/)
 
 ## Our Blogs:
++ [Alex Dan](www.tumblr.com/blog/danrazvan)
 + [Gordon Swan](http://totaltechnology.tumblr.com/)
 + [Scott Rae](http://scottcompsci.weebly.com/)
 
