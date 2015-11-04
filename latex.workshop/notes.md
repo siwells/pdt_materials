@@ -5,3 +5,10 @@ LaTeX is a document preparation and typesetting system that is used in Computer 
 LaTeX is mostly used as a command-line tool with a good editor, however, to give you a gentle introduction we shall use a browser based online tool called [ShareLaTeX](https://www.sharelatex.com/).
 
 Your task is to create a ShareLaTeX account and to write a short LaTeX document using the ShareLaTeX tools. Add the LaTeX source code to a Git repository, and send the final PDF file to your tutor (either [Simon](s.wells@napier.ac.uk) or [Neil](n.urquhart@napier.ac.uk)). The text of your document can be a written up version of your review from the reviewing topic or a version of one of your blog posts from the Blogging topic.
+
+
+## Some Readings Related to LaTex
+
++ (The Beauty of LaTeX)[http://nitens.org/taraborelli/latex] by Dario Taraborelli
++ (Why Microsoft Word must Die)[http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html] By Charlie Stross
+
