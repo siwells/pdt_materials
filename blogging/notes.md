@@ -21,5 +21,6 @@ You don't just have to use a free blog service to host your website. There are m
 ## Our Blogs:
 + [Alex Dan](www.tumblr.com/blog/danrazvan)
 + [David Frame](https://df97blog.wordpress.com)
++ [Rossa Heraty Quirke](https://robotden.wordpress.com/)
 + [Scott Rae](http://scottcompsci.weebly.com/)
 + [Gordon Swan](http://totaltechnology.tumblr.com/)
