@@ -9,6 +9,6 @@ Your task is to create a ShareLaTeX account and to write a short LaTeX document 
 
 ## Some Readings Related to LaTex
 
-+ (The Beauty of LaTeX)[http://nitens.org/taraborelli/latex] by Dario Taraborelli
-+ (Why Microsoft Word must Die)[http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html] By Charlie Stross
++ [The Beauty of LaTeX](http://nitens.org/taraborelli/latex) by Dario Taraborelli
++ [Why Microsoft Word must Die](http://www.antipope.org/charlie/blog-static/2013/10/why-microsoft-word-must-die.html) By Charlie Stross
 
