@@ -6,6 +6,7 @@ Materials for each week are stored in the repo. Each week includes a notes.md fi
 + Week 01 - Hello, Q & A, & Programmers' Aptitude Test
 + Week 02 - Git Workshop & Project Euler challenge
 + Week 03 - LaTeX Workshop
++ Week 04 - Raspberry Pi
 + Week 08 - 1:1 sessions
 + Week 09 - 1:1 sessions
 + Week 11 - First Year CompSci get together (with Pizza & drinks)
