@@ -1,6 +1,6 @@
 # Session #1 JavaScript Intro 
 
-The goal of this session is to introduce you to javascript, a very accessible language which can be used to develop web-based 2D games very quickly. This builds on the [READY. lecture](https://github.com/siwells/READY) from freshers week, using JS in the browser to play with games and hack some code.
+The goal of this session is to introduce you to javascript, a very accessible language which can be used to develop web-based 2D games very quickly. This builds on the ["READY." lecture](https://github.com/siwells/READY) from freshers week, using JS in the browser to play with games and hack some code.
 
 It is likely that there will be considerable variations between your programming experience. The tasks are designed for beginners, but more experienced programmers should be able to take the ideas presented as far as they like. This should be fun (in a programming kind of way) for everyone.
 
