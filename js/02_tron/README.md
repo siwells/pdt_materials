@@ -1,4 +1,4 @@
-# Session #1 JavaScript Intro 
+# Session #1 Tron Lightcycle Game 
 
 One of the suggestions that I made for further work last week was making a two-player 2D version of Tron. I don’t know whether any of you will have gone that far, but that’s what I propose that you all attempt this week. Creating this game is not actually the main goal here. The goal is to go through the process of making it, as it is through that process that you will develop your programming skills and discover how you could apply what you are learning to the production of your own original games. Tron is the perfect illustration of the fact that the simplest ideas can often make for fun games to play when two players are involved.
 
