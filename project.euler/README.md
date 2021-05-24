@@ -14,3 +14,25 @@ I often use established problem lists as a way to learn a new language or to pra
 6. [Rosetta Code](http://rosettacode.org/wiki/Main_Page)
 7. [International Collegiate Programming Contest Problems Index](http://acm.hit.edu.cn/problemset)
 8. [Algorithmist](http://www.algorithmist.com/index.php/Main_Page)
+
+
+## Mini-Project Ideas ##
+
+1. Vanilla JavaScript stopwatch - start | stop | reset
+2. JavaScript clock - regular clock, 12 hour, 24 hour, world clock, alarm
+3. JavaScript calculator - simple, scientific, specialist
+4. JavaScript drum kit - Map keyboard to keys to specific drum sounds
+5. Guess the Color game - Show RGB value, get player to click the matching colour swatch, easy/hard mode
+6. Hangman game - Guess the word one letter at a time
+7. Tic Tac Toe/Noughts & Crosses
+8. Pong
+9. Pairs game - take turns to select two cards and see if they match
+10. Maze game
+11. Tip calculator/bill splitter
+12. Palindrome checker
+13. To-do list
+14. JavaScript timeline
+15. JavaScript quiz
+16. JavaScript weather app - pull data from API and display it
+17. JavaScript browser code editor
+18. Text editor/Word processor
