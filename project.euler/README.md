@@ -25,9 +25,9 @@ I often use established problem lists as a way to learn a new language or to pra
 5. Guess the Color game - Show RGB value, get player to click the matching colour swatch, easy/hard mode
 6. Hangman game - Guess the word one letter at a time
 7. Tic Tac Toe/Noughts & Crosses
-8. Pong
+8. Pong game
 9. Pairs game - take turns to select two cards and see if they match
-10. Maze game
+10. Maze game - generating mazes is fun (and a stepping stone towards generating rooms/level/dungeons for your dungeon crawler game.
 11. Tip calculator/bill splitter
 12. Palindrome checker
 13. To-do list
@@ -36,3 +36,19 @@ I often use established problem lists as a way to learn a new language or to pra
 16. JavaScript weather app - pull data from API and display it
 17. JavaScript browser code editor
 18. Text editor/Word processor
+19. Narrative-based text adventure/choose-your-own-adventure game
+20. Text-based Dungeon Crawler game
+
+
+## Challenging Project Ideas ##
+
+These projects are a serious test. I got the inspiration from them from Austin Z. Henley's list of [challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html). Take a look at his site because he has some explanations of why it is worth attempting these projects.
+
+1. Text editor
+2. 2D game - Space Invaders
+3. Compiler - Tiny BASIC
+4. Mini operating system
+5. Spreadsheet
+6. Video game console emulator
+
+
