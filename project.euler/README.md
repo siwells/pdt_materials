@@ -42,7 +42,7 @@ I often use established problem lists as a way to learn a new language or to pra
 
 ## Challenging Project Ideas ##
 
-These projects are a serious test. I got the inspiration from them from Austin Z. Henley's list of [challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html). Take a look at his site because he has some explanations of why it is worth attempting these projects.
+These projects are a more serious test. I got the inspiration from them from Austin Z. Henley's list of [challenging projects every programmer should try](https://web.eecs.utk.edu/~azh/blog/challengingprojects.html). Take a look at his site because he has some explanations of why it is worth attempting some of them.
 
 1. Text editor
 2. 2D game - Space Invaders
@@ -50,5 +50,7 @@ These projects are a serious test. I got the inspiration from them from Austin Z
 4. Mini operating system
 5. Spreadsheet
 6. Video game console emulator
-
+7. Implement a Lisp
+8. Implement a Forth
+9. Implement a Logic Language (i.e. Kanren or Prolog)
 
