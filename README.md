@@ -7,5 +7,5 @@ Materials for each week are stored in the repo. Each week includes a notes.md fi
 + Week 02 - [Project Euler challenge](https://github.com/siwells/pdt_materials/tree/master/project.euler)
 + Week 03 - [Git Workshop](https://github.com/siwells/pdt_materials/tree/master/git.workshop)
 + Week 04 - [LaTeX Workshop](https://github.com/siwells/pdt_materials/tree/master/latex.workshop) 
-+ Weeks 08 & 09 - 1:1 sessions
++ Weeks 08 & 09 - During this period we run 1-to-1 sessions so that we can reflect privately upon how the first trimester is developing and plan any adjustments that might be necessary to help you excel.
 
