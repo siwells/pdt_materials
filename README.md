@@ -9,5 +9,4 @@ Materials for each week are stored in the repo. Each week includes a notes.md fi
 + Week 04 - [LaTeX Workshop](https://github.com/siwells/pdt_materials/tree/master/latex.workshop) 
 + Week 08 - 1:1 sessions
 + Week 09 - 1:1 sessions
-+ Week 11 - First Year CompSci get together (with Pizza & drinks)
 
