@@ -7,6 +7,5 @@ Materials for each week are stored in the repo. Each week includes a notes.md fi
 + Week 02 - [Project Euler challenge](https://github.com/siwells/pdt_materials/tree/master/project.euler)
 + Week 03 - [Git Workshop](https://github.com/siwells/pdt_materials/tree/master/git.workshop)
 + Week 04 - [LaTeX Workshop](https://github.com/siwells/pdt_materials/tree/master/latex.workshop) 
-+ Week 08 - 1:1 sessions
-+ Week 09 - 1:1 sessions
++ Weeks 08 & 09 - 1:1 sessions
 
