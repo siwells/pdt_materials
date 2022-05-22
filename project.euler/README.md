@@ -38,6 +38,7 @@ I often use established problem lists as a way to learn a new language or to pra
 18. Text editor/Word processor
 19. Narrative-based text adventure/choose-your-own-adventure game
 20. Text-based Dungeon Crawler game
+21. Password generator
 
 
 ## Challenging Project Ideas ##
