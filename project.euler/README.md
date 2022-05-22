@@ -18,6 +18,8 @@ I often use established problem lists as a way to learn a new language or to pra
 
 ## Mini-Project Ideas ##
 
+Most of these should work for any language or platform, with some creativity. Indeed changes in language or platform, e.g desktop versus web versus mobile can lead to interesting differences in approach and innovation.
+
 1. Stopwatch - start | stop | reset
 2. Clock - regular clock, 12 hour, 24 hour, world clock, alarm
 3. Calculator - simple, scientific, specialist
