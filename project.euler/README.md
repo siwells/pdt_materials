@@ -18,10 +18,10 @@ I often use established problem lists as a way to learn a new language or to pra
 
 ## Mini-Project Ideas ##
 
-1. Vanilla JavaScript stopwatch - start | stop | reset
-2. JavaScript clock - regular clock, 12 hour, 24 hour, world clock, alarm
-3. JavaScript calculator - simple, scientific, specialist
-4. JavaScript drum kit - Map keyboard to keys to specific drum sounds
+1. Stopwatch - start | stop | reset
+2. Clock - regular clock, 12 hour, 24 hour, world clock, alarm
+3. Calculator - simple, scientific, specialist
+4. Drum kit - Map keyboard to keys to specific drum sounds (works particularly well for JS in the browser using AudioContext)
 5. Guess the Color game - Show RGB value, get player to click the matching colour swatch, easy/hard mode
 6. Hangman game - Guess the word one letter at a time
 7. Tic Tac Toe/Noughts & Crosses
@@ -31,10 +31,10 @@ I often use established problem lists as a way to learn a new language or to pra
 11. Tip calculator/bill splitter
 12. Palindrome checker
 13. To-do list
-14. JavaScript timeline
-15. JavaScript quiz
-16. JavaScript weather app - pull data from API and display it
-17. JavaScript browser code editor
+14. Timeline
+15. Quiz
+16. Weather app - pull data from API and display it
+17. Browser code editor
 18. Text editor/Word processor
 19. Narrative-based text adventure/choose-your-own-adventure game
 20. Text-based Dungeon Crawler game
