@@ -13,3 +13,8 @@ There are many resources that will help you to learn Git. A good place to start 
 + [Git Immersion](http://gitimmersion.com/lab_01.html)
 
 Using Git in combination with a site like [GitHub](https://github.com/) or [BitBucket](https://bitbucket.org/) is a good way to build a portfolio of code that you can use to demonstrate to potential employers and collaborators that you are a capable developer.
+
+
+## Exercises
+
+The goal for this week is to at least create one repository of your own, in your own github account (which you might have to set up/register), and to commit and push the C64 bat and ball game code listing from last week into it.
