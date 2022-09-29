@@ -8,7 +8,7 @@ I'd suggest starting with the [getting started](getting.started.pdf) exercise, a
 
 There are many resources that will help you to learn Git. A good place to start is the [Git SCM book](https://git-scm.com/book/en/v2) which is available online and to download in a variety of formats. Other resources and online tutorials include:
 
-+ [Github’s Learn Git 15 minute tutorial](https://try.github.io/levels/ 1/challenges/1)
++ [Github’s Learn Git 15 minute tutorial](https://try.github.io/levels/1/challenges/1)
 + [Learn Git Branching](http://pcottle.github.io/learnGitBranching/)
 + [Git Immersion](http://gitimmersion.com/lab_01.html)
 
