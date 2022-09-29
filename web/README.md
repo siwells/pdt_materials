@@ -7,14 +7,14 @@ Add a public repo to your github account that is named the same as your github u
 Create another new public repository called "AboutMe". We're going to make this into a simple personal web page. Clone your new repo and add a new file to it called index.html then commit your changes. Now edit index.html to add some HTML code to it, for example,
 
 ```js
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
-<body>
+    <body>
 
-<h1>About Me</h1>
-<p>Hi folks, I'm Simon. Welcome to me site.</p>
+    <h1>About Me</h1>
+    <p>Hi folks, I'm Simon. Welcome to me site.</p>
 
-</body>
+    </body>
 </html> 
 ```
 
