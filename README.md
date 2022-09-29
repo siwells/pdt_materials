@@ -4,11 +4,11 @@ Materials for each week are stored in the repo. Each week includes a notes.md fi
 
 ## Week-By-Week Organisation
 
-+ Trimester 01, Week 01 - Hello, Q & A, & [Freshers week meetings](/meetings/)
-+ Trimester 01, Week 02 - [Hello World](https://github.com/siwells/pdt_materials/tree/master/helloworld)
-+ Trimester 01, Week 03 - [C64](https://github.com/siwells/pdt_materials/tree/master/c64)
-+ Trimester 01, Week 04 - [Git](https://github.com/siwells/pdt_materials/tree/master/git.workshop)
-+ Trimester 01, Week 04 - [Portfolio Development](https://github.com/siwells/pdt_materials/tree/master/web)
++ Trimester 01, Week 01 - [Hello Napier](/meetings/)
++ Trimester 01, Week 02 - [Hello World](/helloworld/)
++ Trimester 01, Week 03 - [C64](/c64/)
++ Trimester 01, Week 04 - [Git](/git.workshop/)
++ Trimester 01, Week 04 - [Portfolio Development](/web/)
 
 ## One to one meetings
 We'll also meet for individual discussions about your progress. The first meeting is usually around the time that the first assignment grades are returned in first trimester. The second meeting is usually around the middle/end of the second trimester, to reflect on the first year, and to look forward to second year.
