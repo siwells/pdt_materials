@@ -8,5 +8,7 @@ Materials for each week are stored in the repo. Each week includes a notes.md fi
 + Trimester 01, Week 03 - [C64](https://github.com/siwells/pdt_materials/tree/master/c64)
 + Trimester 01, Week 04 - [Git](https://github.com/siwells/pdt_materials/tree/master/git.workshop)
 + Trimester 01, Week 04 - [Portfolio Development](https://github.com/siwells/pdt_materials/tree/master/web)
+
 + Trimester 01, Weeks 08 & 09 - During this period we run [1-to-1 sessions](https://github.com/siwells/pdt_materials/tree/master/reflection) so that we can reflect privately upon how the first trimester is developing and plan any adjustments that might be necessary to help you excel.
+
 + Trimester 02, Weeks 08 & 09 - A second round of [1-to-1 sessions](https://github.com/siwells/pdt_materials/tree/master/reflection) to help us to reflect on both the second trimester and the year as a whole.
