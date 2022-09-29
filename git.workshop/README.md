@@ -4,6 +4,8 @@ Git is a source control system that enables you to keep track of your source cod
 
 You might have seen Git before, perhaps as a plugin to an IDE or as a standalone GUI app, but Git is primarily a command line application. Even if you will mostly use Git through an IDE or GUI it can be very valuable to learn the command line version as this will give you an unfiltered view of the true power of the system.
 
+I'd suggest starting with the [getting started](getting.started.pdf) exercise, and then continuing from there with practise and additional background reading.
+
 There are many resources that will help you to learn Git. A good place to start is the [Git SCM book](https://git-scm.com/book/en/v2) which is available online and to download in a variety of formats. Other resources and online tutorials include:
 
 + [Github’s Learn Git 15 minute tutorial](https://try.github.io/levels/ 1/challenges/1)
