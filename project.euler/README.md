@@ -14,6 +14,7 @@ I often use established problem lists as a way to learn a new language or to pra
 6. [Rosetta Code](http://rosettacode.org/wiki/Main_Page)
 7. [International Collegiate Programming Contest Problems Index](http://acm.hit.edu.cn/problemset)
 8. [Algorithmist](http://www.algorithmist.com/index.php/Main_Page)
+9. [Code Submission Evaluation System (CSES) Problem Set](https://cses.fi/problemset/)
 
 
 ## Mini-Project Ideas ##
